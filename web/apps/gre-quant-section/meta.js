@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-quant-section", "title": "Quant Section Simulator", "exam": "GRE", "area": "GRE Quant", "desc": "Timed Quant sections in the current format: 12 questions in 21 minutes, then 15 in 26.", "content": [], "n": 32};
